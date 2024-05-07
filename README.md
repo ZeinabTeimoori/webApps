@@ -1,1 +1,1 @@
-# webApps
+# Art Galley web page with jQuery
