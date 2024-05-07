@@ -1,1 +1,1 @@
-# Art Galley web page with jQuery
+# Web page samples with JS, jQuery, Node.js, PHP
